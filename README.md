@@ -1,4 +1,4 @@
-REACT Syncfusion DASHBOARD
+REACT SYNCFUSION DASHBOARD PROJECT
 
 ![Home](https://github.com/ask-shay/uniton-ecom-app/assets/125210638/317bc840-e33d-469a-9e00-c886c16aecf4)
 
